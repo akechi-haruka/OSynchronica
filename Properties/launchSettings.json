@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "OSynchronica5": {
+      "commandName": "Project",
+      "commandLineArgs": "--beatmap-jacket --tags=ORIGINAL --spinner-to-hold \"D:\\GAMES\\osulaser\\exports\\Nico Nico Douga - Second Subway (Lunah).osz\" D:\\GAMES\\SDVX\\sync\\data 601"
+    }
+  }
+}
