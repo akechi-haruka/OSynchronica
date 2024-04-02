@@ -7,7 +7,7 @@ Licensed under the GPLv3.
 A command-line .osu -> fumen converter for a certain arcade game of B***** N****.
 
 Requires a working Osu!, Squirrel, ffmpeg and medianoche installation.
-See wiki for more details.
+See wiki for more details: https://github.com/akechi-haruka/OSynchronica/wiki/Installation
 
 Usage:
 OSynchronica.exe [args] <input file> <output folder> <songid>
