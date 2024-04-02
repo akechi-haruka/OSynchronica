@@ -1,0 +1,43 @@
+return lib::parameter_holder([
+	"lib::vtag_parameter": [
+		"slot": "bg_00",
+		"params": lib::parameter_holder([
+			"#object_common_option": [
+				"layer": "bg",
+				"channel": 0,
+				"field_preset": null,
+				"group_name": "",
+				"group_tags": null,
+				"depth": 0,
+				"duration": lib::parameter_holder([
+					"lib::timing_container": [
+						"second": 0,
+						"beat": 0,
+						"bar": -1,
+						"tag": ""
+					]
+				]),
+				"blend": "BLEND_NORMAL",
+				"scale": [
+					1,
+					1,
+					1
+				],
+				"color": [
+					1,
+					1,
+					1
+				],
+				"num_rate": 1,
+				"mask": "NONE",
+				"shader_effect": null,
+				"culling": true,
+				"grid": [
+					0,
+					0,
+					0
+				]
+			]
+		])
+	]
+]);
